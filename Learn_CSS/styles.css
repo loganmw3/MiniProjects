@@ -1,3 +1,22 @@
 body{
     background-color: wheat;
 }
+h1{
+    color: white;
+}
+p{
+    background-color: gray;
+    color: white;
+}
+
+#p1{
+    color: aqua;
+}
+
+.odd{
+    color: red;
+}
+
+.even{
+    color: blue;
+}
