@@ -1,12 +1,19 @@
 body{
-    background-color: wheat;
+    background-image: url(IMG_8297\ copy.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
 h1{
-    color: white;
+    background: linear-gradient(skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 p{
-    background-color: gray;
-    color: white;
+    background: linear-gradient(skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #p1{
@@ -15,8 +22,25 @@ p{
 
 .odd{
     color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .even{
     color: blue;
+}
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: greenyellow;
+}
+
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: rgb(44, 49, 199);
 }
